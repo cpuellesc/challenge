@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RvQKS1ZbXdPQTLBHTxjUBR/ptN0nrKmmoyJc7MPOSR4he4JCNA3uGNQb2ofV482jFs1EjQNAu9n2SALuZBAhQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Soporte\\source\\Repos\\Searchfight\\Searchfight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Soporte\\.nuget\\packages\\google.apis\\1.56.0\\google.apis.1.56.0.nupkg.sha512",
+    "C:\\Users\\Soporte\\.nuget\\packages\\google.apis.auth\\1.56.0\\google.apis.auth.1.56.0.nupkg.sha512",
+    "C:\\Users\\Soporte\\.nuget\\packages\\google.apis.core\\1.56.0\\google.apis.core.1.56.0.nupkg.sha512",
+    "C:\\Users\\Soporte\\.nuget\\packages\\google.apis.customsearch.v1\\1.49.0.2084\\google.apis.customsearch.v1.1.49.0.2084.nupkg.sha512",
+    "C:\\Users\\Soporte\\.nuget\\packages\\google.apis.customsearchapi.v1\\1.56.0.2455\\google.apis.customsearchapi.v1.1.56.0.2455.nupkg.sha512",
+    "C:\\Users\\Soporte\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

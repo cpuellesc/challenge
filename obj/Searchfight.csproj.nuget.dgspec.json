@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Soporte\\source\\Repos\\Searchfight\\Searchfight.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Soporte\\source\\Repos\\Searchfight\\Searchfight.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Soporte\\source\\Repos\\Searchfight\\Searchfight.csproj",
+        "projectName": "Searchfight",
+        "projectPath": "C:\\Users\\Soporte\\source\\Repos\\Searchfight\\Searchfight.csproj",
+        "packagesPath": "C:\\Users\\Soporte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Soporte\\source\\Repos\\Searchfight\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Soporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Google.Apis": {
+              "target": "Package",
+              "version": "[1.56.0, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.56.0, )"
+            },
+            "Google.Apis.Core": {
+              "target": "Package",
+              "version": "[1.56.0, )"
+            },
+            "Google.Apis.CustomSearchAPI.v1": {
+              "target": "Package",
+              "version": "[1.56.0.2455, )"
+            },
+            "Google.Apis.Customsearch.v1": {
+              "target": "Package",
+              "version": "[1.49.0.2084, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.212\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
